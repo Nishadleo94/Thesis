@@ -1,6 +1,4 @@
-# Thesis
-Developing a Recommender System for Customers in a Scan and Go store using Apriori Algorithm in Market Basket Analysis
-
+# Developing a Recommender System for Customers in a Scan and Go store using Apriori Algorithm in Market Basket Analysis
 
 The aim of the research is to study the possible impact a recommender system can bring about in
 increasing the revenue for a fully-automated Scan and Go store. The core of the research involves
