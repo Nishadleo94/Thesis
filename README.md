@@ -22,3 +22,6 @@ All the obtained results are visualised with the help of appropriate tools.
 The question of how the recommender system improves the revenue of a company while making their
 customers satisfied is tried to answer by in-depth analysis of results obtained from the primary
 research and knowledge obtained from the secondary research
+
+
+![Exploratory Analysis] (https://github.com/Nishadleo94/Thesis/blob/master/Output/Exploratory%20Analysis%20-%20Dashboard.png?raw=true)
