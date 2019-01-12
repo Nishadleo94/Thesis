@@ -24,4 +24,4 @@ customers satisfied is tried to answer by in-depth analysis of results obtained 
 research and knowledge obtained from the secondary research
 
 
-![Exploratory Analysis] (https://github.com/Nishadleo94/Thesis/blob/master/Output/Exploratory%20Analysis%20-%20Dashboard.png?raw=true)
+! [Exploratory Analysis] (https://github.com/Nishadleo94/Thesis/blob/master/Output/Exploratory%20Analysis%20-%20Dashboard.png?raw=true)
