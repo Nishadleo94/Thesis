@@ -1,5 +1,6 @@
 # Developing a Recommender System for Customers in a Scan and Go store using Apriori Algorithm in Market Basket Analysis
 
+## Abstract
 The aim of the research is to study the possible impact a recommender system can bring about in
 increasing the revenue for a fully-automated Scan and Go store. The core of the research involves
 building a recommender system for Customers Using Apriori Algorithm in Market Basket Analysis. This
@@ -23,5 +24,11 @@ The question of how the recommender system improves the revenue of a company whi
 customers satisfied is tried to answer by in-depth analysis of results obtained from the primary
 research and knowledge obtained from the secondary research
 
+## Output
+#### Exploratory Analysis - Tableau
+<img src = "Output/Exploratory Analysis - Dashboard.png">
 
-![](Output/Exploratory Analysis - Dashboard.png)
+#### The Shiny Application
+<img src = "Output/Shinyapp GIF.gif">
+
+
